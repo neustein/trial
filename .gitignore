@@ -1,0 +1,4 @@
+dataset/*
+dataset2/*
+cifar10.pkl
+*.pyc
