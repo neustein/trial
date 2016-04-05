@@ -1,4 +1,7 @@
 dataset/*
 dataset2/*
-cifar10.pkl
+*.pkl
 *.pyc
+cifar10.tar.gz
+cifar-10-batches-py
+*.txt
